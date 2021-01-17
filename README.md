@@ -1,5 +1,7 @@
 ### Hola, I'm Sonali Mahajan 👋
 
+This is the place where I opensource stuff and break things 🤣
+
 
 - 🔭 I’m currently working on improving my Java Skills
 - 🌱 I’m currently learning Collections and Streams
@@ -8,7 +10,10 @@
 - 💬 Ask me about Java or Machine Learning
 - 📫 How to reach me: Gmail -@sonalimahajan116
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday
+- ⚡ Fun fact: I ❤️ Beaches 🏖️
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonalimahajan12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![Sonali's github stats](https://github-readme-stats.vercel.app/api?username=sonalimahajan12&show_icons=true&theme=radical)
+
+<br><br><br><br><br><br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalimahajan12&langs_count=8)](https://github.com/sonalimahajan12/github-readme-stats)
