@@ -13,6 +13,6 @@ This is the place where I opensource stuff and break things 🤣
 - ⚡ Fun fact: I ❤️ Beaches 🏖️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalimahajan12&langs_count=8)](https://github.com/sonalimahajan12/github-readme-stats)
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 ![Sonali's github stats](https://github-readme-stats.vercel.app/api?username=sonalimahajan12&show_icons=true&theme=radical)
 
